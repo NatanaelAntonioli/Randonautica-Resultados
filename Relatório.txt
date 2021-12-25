@@ -1,0 +1,1413 @@
+C:\Users\Dell\AppData\Local\Programs\Python\Python39\python.exe "D:/Nuvem/Fábrica de Noobs/Projetos em Andamento/Randonautica/test rsa/teste.py"
+--------------------------------------------------041221043827.encry--------------------------------------------------
+HASH: 75644b31c227060e4a0da8e1607ce25e
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: Q4NQNLEAGMC3K8RTG3WC8Z5X7RFYA
+--------------------------------------------------041221044420.encry--------------------------------------------------
+HASH: 44fd607a9eb135e2ce33dbeb0848bca6
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: P260OZJVJM43DA326YA6BV
+--------------------------------------------------041221044602.encry--------------------------------------------------
+HASH: 5a182d2702e2d509538c60f83f002b11
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 5WXCGQ7JRE8AZWZAH9Z36IDSFG6GTC
+--------------------------------------------------041221044643.encry--------------------------------------------------
+HASH: 49c56e24d6cb25ce1f5fab6052700cb5
+Visita presencial. Nao foi relevante. Coordenada atrelada (atrator). SALT: P0KSK9BOKJ1F4GOFBXS97GYNW
+--------------------------------------------------041221184606.encry--------------------------------------------------
+HASH: f10a128f094bb1e97c42152a330eab53
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 7BPNS0XBWVJ1XRTTFWTRLRDXQ3
+--------------------------------------------------041221190111.encry--------------------------------------------------
+HASH: 2f1308758d4d4828888e8e50071a7ead
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: UH9SUOTSZLU3TIS8VQCHO
+--------------------------------------------------041221190503.encry--------------------------------------------------
+HASH: 2859441a0fb032f0b4bbb81fedf5734a
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 0544GVGMGIUFUHCWLJV3U9VQ
+--------------------------------------------------041221190859.encry--------------------------------------------------
+HASH: 3870c7d063b23da32a871a55f07becd4
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: GC1XJXW165FCR24KE13UWEX
+--------------------------------------------------041221191054.encry--------------------------------------------------
+HASH: 8231d0461d4586babe30121b6fad8fde
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 7CR9IZGALB89CFF65WTXY
+--------------------------------------------------041221191223.encry--------------------------------------------------
+HASH: 7d0bcfc46769b07a219b9c98482e640d
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 14YPNKNB1EY7T763RDCPESSEGFG78
+--------------------------------------------------041221191407.encry--------------------------------------------------
+HASH: 1417ebc33d09d54efb072acc45f5a156
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: L9ON4EFYJ66W1KP7X4D9JSRT
+--------------------------------------------------041221191843.encry--------------------------------------------------
+HASH: 23ac3cf5e057aae806213656c8278bf0
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: 3XTSIDHI6NMNPIW44I4BNP
+--------------------------------------------------041221192024.encry--------------------------------------------------
+HASH: 2698b3a3ead2f5872e21c8547cc334d4
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: MZH3NMWL6EAL4VR3K106WJATD
+--------------------------------------------------041221192359.encry--------------------------------------------------
+HASH: 6f06c71d20002f5cfb6a70907ebf98d7
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: 0QI5KR7Z5P22V8WTFEOTJVQ31K
+--------------------------------------------------041221192529.encry--------------------------------------------------
+HASH: 887b96be702fb8dac15645a4f134ce17
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: EYJQZK8WWRMI2B1DUE1E0W
+--------------------------------------------------041221192701.encry--------------------------------------------------
+HASH: dfa56ea118c88be177f5d0932e49384e
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: QTQQV10PIRDB13U3Q57D5I24T5T2
+--------------------------------------------------041221192813.encry--------------------------------------------------
+HASH: 2c664d6feba2184d3ed144164d6bc432
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: 5RKWVHNZPDXJ9OXI3D450YG5XOV49B
+--------------------------------------------------041221192949.encry--------------------------------------------------
+HASH: aef72a79c45422d0cc6f6705b593324a
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: T7MG3GAMET7EK33RV14XLQJGOIYQI
+--------------------------------------------------041221193103.encry--------------------------------------------------
+HASH: 62d0a97e63c4d489fbf76efd3f59c60a
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: ZBHLQV0INK7HMIH1UNTS1
+--------------------------------------------------041221193301.encry--------------------------------------------------
+HASH: 82639620d1c6cf89c97edcb51d3bd24e
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: O3PPFNAUVY6E6WTB5KWBA0JCD
+--------------------------------------------------051221011610.encry--------------------------------------------------
+HASH: b537edf5e10ec381f434432f0aa918c8
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: H9DHN4KVI5JPH0DGTFYT6N
+--------------------------------------------------051221011641.encry--------------------------------------------------
+HASH: 258248da9da71d5871a106f6adcf3c07
+Visita presencial. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: V94SL1WMUXNYLI605K957UXEFOG
+--------------------------------------------------051221011737.encry--------------------------------------------------
+HASH: 587d12e9c152d6517cc8540a29230a92
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 90GZGIQPUE6Y975V6FO1P6TVC5
+--------------------------------------------------051221011751.encry--------------------------------------------------
+HASH: 255861b94a6487a08ff5ee5398fc8c91
+Visita presencial. Foi relevante. Coordenada desatrelada (atrator). SALT: E8XTNISHLWZIPS71BBSIS
+--------------------------------------------------051221012100.encry--------------------------------------------------
+HASH: 309a81e8950aff3be4abeab7af45d213
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: FRGMKPXTP97RU3S9X6OO2ZOD1VPNV
+--------------------------------------------------051221012301.encry--------------------------------------------------
+HASH: 0219f6360f8fa437f91480f1e01d0c18
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 3WKG0NX680RLGRBFS9HTJIM
+--------------------------------------------------051221012434.encry--------------------------------------------------
+HASH: 2cfb87cbb9bfa3a4614ff602dd587fa7
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: VPHBR7NLUAL3PD2KZJ9ASYAU
+--------------------------------------------------051221012546.encry--------------------------------------------------
+HASH: 0848780c1cc4e2ef6d6edfe21dd2da81
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: R42XDDJ2V7VQXRRUHOZVYEZ2RYWIA
+--------------------------------------------------051221012641.encry--------------------------------------------------
+HASH: 9653c82d692b5726f7efbbcf9c1ddd09
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: KIUJAM9CGIIZZPV59EZYVJ4
+--------------------------------------------------051221012648.encry--------------------------------------------------
+HASH: 911dd338c1fd243e6b0b2b4f90e480af
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: XEOUCXL3T33L50HS8B0BTPRS3XMH
+--------------------------------------------------051221012834.encry--------------------------------------------------
+HASH: 664c927c1420b6620bd0a3ee9b457145
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 2QWJ4G391185DJQ134Q7DNWG4PPUA
+--------------------------------------------------051221012913.encry--------------------------------------------------
+HASH: 46b2b5ab558abc6b65bfbf0e47654f7e
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: NBS1D09202SAOFQ7T210UGT87
+--------------------------------------------------051221013056.encry--------------------------------------------------
+HASH: 57605edf433b8681cc26f67b9179ff11
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 1Y6PJ48R8QDWFDNY60L9UGW
+--------------------------------------------------051221013319.encry--------------------------------------------------
+HASH: 5db5cb5a33fcf14c7da7c7e881c823ad
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: OU1LVTAW9D3BOJHN6K8XMMU
+--------------------------------------------------051221013659.encry--------------------------------------------------
+HASH: 691b3626d0ac5492fbe4834edfc59169
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 1RL6330DCCLABWEQUMSMIN010PA
+--------------------------------------------------051221013946.encry--------------------------------------------------
+HASH: c0cabf1c55997d1f26efe493f517f126
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: 1EC3XM8YMQCYQ431FU5DPKTV3JJH3
+--------------------------------------------------051221014050.encry--------------------------------------------------
+HASH: a9a44b5b7440cfc142694026161ae302
+Visita presencial. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: OKG0VGK5YJLOY2PEOLZJWN
+--------------------------------------------------051221014441.encry--------------------------------------------------
+HASH: be0665e461b64b0d3f11a45604fd9de4
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: JOBOTSTRX49WRAS5VZN2SS95
+--------------------------------------------------051221014529.encry--------------------------------------------------
+HASH: de0d63b5da64fa0d7ded738ef3b63f1a
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: W2RMD6AZX5T83UL2YWBG8COMLQW1ZM
+--------------------------------------------------051221014609.encry--------------------------------------------------
+HASH: 564d2e57ef5fb6cdaa9d44fc424e6b85
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: GKXCH3OSFA58FWKATY5QG82K
+--------------------------------------------------051221014643.encry--------------------------------------------------
+HASH: 249373949e4df41e6c65736bdec29aa2
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 70PLJN2BU6TS9ZNPBG59O6
+--------------------------------------------------051221035231.encry--------------------------------------------------
+HASH: 324bdc862e20133fec4ea3f10bed36fc
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: WVTJSD0LOJBIYZCUE0L3BIK2IN6T
+--------------------------------------------------051221035339.encry--------------------------------------------------
+HASH: 10f4cb5f5f013f0bf1c766f09a16f484
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: EBD43EMEJWOPYO8RHDIARF6
+--------------------------------------------------051221035620.encry--------------------------------------------------
+HASH: 4e97febafd7e63e65f031aff412b6b3f
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: YLTT08T8IDSW1A5B0JT7WGAPRED
+--------------------------------------------------051221035714.encry--------------------------------------------------
+HASH: 326ae9adcaaa21d8bd9d833ad5a7aaa7
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: PEVC6QU6GN7YOR3P2VSVDUKJIZM2K
+--------------------------------------------------051221042048.encry--------------------------------------------------
+HASH: 5481a882bcdd1ccab3b6225a29130cce
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: WWG7AU8E7A9GHP8XA7AVDA7C
+--------------------------------------------------051221042333.encry--------------------------------------------------
+HASH: 94eb3135e6b4f9dd9f8d73c25ca09798
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: N8JKEHT4UUI4TADC6070KL4RGIM
+--------------------------------------------------051221042604.encry--------------------------------------------------
+HASH: 14886b5c91bb61f8dde0ed036f2208db
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: DYRN4CIPFT31CFUP8F2GKGZAKY
+--------------------------------------------------051221042740.encry--------------------------------------------------
+HASH: f73820d0f6542eae368c524c947e1891
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: F9ZURXCL1PHO4OVXL7QXWEKFIHCJ
+--------------------------------------------------051221042934.encry--------------------------------------------------
+HASH: 2d1673490b03407f753f2abbf73cbde2
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 5MOKUSA6DRUC4ZCNKF8CMQKDP46P
+--------------------------------------------------051221082813.encry--------------------------------------------------
+HASH: 537cc9347745814e3724b88b008f136e
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: YJFT3IUPZY406QD8TBGF9
+--------------------------------------------------051221082959.encry--------------------------------------------------
+HASH: fb38ec3c85d2a336d65e3c20c0016a09
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: PTL8HO4KTCTLOCG3SH2NMJ8
+--------------------------------------------------051221083143.encry--------------------------------------------------
+HASH: 8b7c97f41c44b56fe5bb9ccbb2cf361c
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: OU73IN6TEFM1SHTK7I46FODNOOZ
+--------------------------------------------------051221083227.encry--------------------------------------------------
+HASH: 625929861c70deb7f029f1fd6630774d
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: KY3W5YFL3JQCVYMNJSO3S66
+--------------------------------------------------051221083352.encry--------------------------------------------------
+HASH: 5c588190da85e911f62337dc16ec0c38
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: XZGRMYFUKM5NDLOMP9TV7SYUH
+--------------------------------------------------051221083447.encry--------------------------------------------------
+HASH: 41d624ebb8258a15e5cff564725c197f
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: K6G6FX33LQBFE1QJ6MMZWM0RQLLCZ
+--------------------------------------------------051221112158.encry--------------------------------------------------
+HASH: 05d77d0d83305fbedbcb544ce3314403
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 3601DC9SILKNZWRFYXU072EQE7
+--------------------------------------------------051221112412.encry--------------------------------------------------
+HASH: d5c4c61396de7efb2b48715565582ba7
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: L7J8QAK2XDXO9G69NIKIA
+--------------------------------------------------051221112613.encry--------------------------------------------------
+HASH: 545957f90c1bfa3be126befe572dbfda
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: SXG0O9QUGVPYMWT231BED4L
+--------------------------------------------------051221123520.encry--------------------------------------------------
+HASH: 8a53181f85f45f8b4d08517377dd2fdd
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: AOUZQ2M8B1KQ7ADOEO1TBV92Y
+--------------------------------------------------051221123653.encry--------------------------------------------------
+HASH: a9c8a28168d5cb155af9805445d4d5cc
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 3QWVYLS4GWM8RKUCT3CF9OTI4VLE
+--------------------------------------------------051221123858.encry--------------------------------------------------
+HASH: e2bfeaa9296f63cbf3e9b8f3aad8915c
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: G9LQ90GJ5KWOACZ2EYP3YIGM1IY
+--------------------------------------------------051221124006.encry--------------------------------------------------
+HASH: 23b9da217675de1a1119aa6a40e4a9ae
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 40GQDYXG9JWM7IZEKLWE35U9N27N
+--------------------------------------------------051221124149.encry--------------------------------------------------
+HASH: 5688841902499d60d190e4b2e1be8de6
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: WII1Q6TPL1AHIJCTHDS5YRPLJ6OT9
+--------------------------------------------------051221124455.encry--------------------------------------------------
+HASH: 296d83126d1a574de3a2687cc67668b8
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 2H23Y2TB0SK4K2D348DSWRW6PSTP8
+--------------------------------------------------051221124732.encry--------------------------------------------------
+HASH: 8c665cb3a5cecf0aa2045bbc335da0ab
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: KQXMO6HBZGZ6IR38EY1XYG
+--------------------------------------------------051221124958.encry--------------------------------------------------
+HASH: 9d78c16af1de358c997578c3811392d9
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: RFW45POB7UR7BZFZ35SF2UCJS
+--------------------------------------------------051221125041.encry--------------------------------------------------
+HASH: 0b78df368bd479913a6b088434a14965
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 2BMG2KVXO14UPLDWFI9T4EG4NM
+--------------------------------------------------051221125141.encry--------------------------------------------------
+HASH: 4f4e0f705380d059c5e7e9ed7ee10cdd
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: J8I18CTVE6OBUAET1DEYY4BTGTJE
+--------------------------------------------------051221125348.encry--------------------------------------------------
+HASH: 538a508f122b4c8a4c5e52eae7416189
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: X41J11Z88S5K5BC0TI5E4YP8P1SFDL
+--------------------------------------------------051221130224.encry--------------------------------------------------
+HASH: 400dff2292bd42fa0c8b0e207a0fae0e
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: C6B8I0EM8ZIS0YYCH2MBKRWFQ2CY
+--------------------------------------------------051221130344.encry--------------------------------------------------
+HASH: 050905ebaf087fad4b7868c7a2a20c74
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: 6GKS8OHU5MZA4653639RQU4T7
+--------------------------------------------------051221130443.encry--------------------------------------------------
+HASH: 36706db28f71a33a542ff1e6165e1af8
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: I33LBPMQYVW6LD6COOWQRRYPGTULVP
+--------------------------------------------------051221130650.encry--------------------------------------------------
+HASH: 8475556726f64854086618d38f61789e
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: HY28QJX689WCHV6HT9D6UI1PZUQG6
+--------------------------------------------------051221130746.encry--------------------------------------------------
+HASH: 8bf01755e0f374e1cd7e4e0c360c8f30
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: MMTP8NOFI0MTTWUGV3E4USYI42
+--------------------------------------------------051221130857.encry--------------------------------------------------
+HASH: 4ce326772b38c2bd04af58b4b631ea47
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: QWS88LZJPA1I7IHE2ESTU79
+--------------------------------------------------051221131142.encry--------------------------------------------------
+HASH: 056df919b3b62d4a1c814a8019993fc3
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: RIWOGZZXK6WJCU790955EG
+--------------------------------------------------051221131301.encry--------------------------------------------------
+HASH: f42bd47b55be36b3e81fa853b12b47b0
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: OO0KLUDZI0OII0X5ZGM9VS
+--------------------------------------------------051221131420.encry--------------------------------------------------
+HASH: fe6bca92273d1b2929b4f66d007d847c
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: E75WEGFGLP6G99DUONS424FZ78L628
+--------------------------------------------------051221131558.encry--------------------------------------------------
+HASH: a0f5d22a5fbbedbfc7e3c71e200e6861
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: BOJ8O29YBTD6DSESA15PQ1JK3R
+--------------------------------------------------051221131730.encry--------------------------------------------------
+HASH: bc7f03e3679ddd7d268d44a216d48a40
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: M6PGGPEF01J5KE8D91S9KIZ
+--------------------------------------------------051221131822.encry--------------------------------------------------
+HASH: 2f8af9d4c8896569eabd093d2c9fa08c
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: J60S18UGIPXN0T3ZKWNTX
+--------------------------------------------------051221131915.encry--------------------------------------------------
+HASH: efea3a9c1c3f9ce508343679b2a852ec
+Visita presencial. Foi relevante. Coordenada atrelada (ponto cego). SALT: PIJOBOGFGZVHE87CDRW9FM
+--------------------------------------------------051221131946.encry--------------------------------------------------
+HASH: 0c19a172674d7810c6063af72ee67e60
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: 23T4BYQ6SJJHDG7FM9VCT
+--------------------------------------------------051221132023.encry--------------------------------------------------
+HASH: 8ae1d0808e0df6ab6ec4a354ee5adaa0
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 3F702AVWB3YWCATD5ZG6WSXL
+--------------------------------------------------051221132046.encry--------------------------------------------------
+HASH: ace97be1c269c9a1abb251f73eebaa06
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: NQV6OIHKQPM89RBU1C2D5NZRYM
+--------------------------------------------------051221132131.encry--------------------------------------------------
+HASH: 8b61fda1346c1d8f4a41141ace00d66b
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: BCERG1W06LDBJ0DBSCVGB
+--------------------------------------------------051221132141.encry--------------------------------------------------
+HASH: d92c09cd88bd0f3b093760cb1dd40c23
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: RYV1F26XJO6Q4MIORD6JSHLKS16L
+--------------------------------------------------051221132226.encry--------------------------------------------------
+HASH: 9b5b2464d7aa652c13206ecbe180b552
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - vazio). SALT: LSDCK1A6G7MSXRBFLJK9YYM8
+--------------------------------------------------051221132232.encry--------------------------------------------------
+HASH: e6bb378af7170f9bb85d2579b05e245e
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: HZCK0KH3LS9JHF9VJUD0N5T
+--------------------------------------------------051221132320.encry--------------------------------------------------
+HASH: 49e24fe9710aa833d80a73f4f330f9a8
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 7PQLU65M68NWXIOKFZGJFQ
+--------------------------------------------------051221132336.encry--------------------------------------------------
+HASH: 321018b6ecef9e2eed835663da2e0334
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 4YD6V9PPTPNAVK50YZGSO9NR6
+--------------------------------------------------051221132406.encry--------------------------------------------------
+HASH: ac2b61af594443433bdaf90800c03c26
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: RTWDONIN9R372E4Y2R7TS1
+--------------------------------------------------051221132447.encry--------------------------------------------------
+HASH: 85080c40bed806b0a8ca2a2a31d86d6d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 5INWQKW5VBGSK4Q4LKESLC
+--------------------------------------------------051221133432.encry--------------------------------------------------
+HASH: b59ca850ee75cfe46418d8e2550d8312
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 0XP6RZA1OXBB6U4N2HC9C5EK8LF7L
+--------------------------------------------------051221134357.encry--------------------------------------------------
+HASH: 95e5c2fb974b1a86e6b30a74c80e6b3e
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: NQK67C55PFFXHZ1K8XTCSJZ7YX9TYH
+--------------------------------------------------051221134658.encry--------------------------------------------------
+HASH: 0bed38e5656029bd810f9e2896e54992
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 9E8AGR8CU54AMOE81SAVP
+--------------------------------------------------051221135016.encry--------------------------------------------------
+HASH: ce9adbfbdc1aa869725c500bbddd30e4
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: D8TK8U7Z3I9E1RRDBFGKGCGZCN
+--------------------------------------------------051221135201.encry--------------------------------------------------
+HASH: 2a07ce86d7215e7718c928626d094ab4
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: NLJKKTJKNJDFIPNQP7TJIY4VYJB
+--------------------------------------------------051221135258.encry--------------------------------------------------
+HASH: 2b12a319f8698be1f66b287b653b26ff
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: WOQ1EYXA4ZDRH8S3294SIHQDVFJ3
+--------------------------------------------------051221135348.encry--------------------------------------------------
+HASH: 3201d964584ea72667b434eafad6d2a0
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 932IE6284TA90I7LC70CS0E
+--------------------------------------------------051221135951.encry--------------------------------------------------
+HASH: b45f96fcf0e04c1fdbeefa44919eba40
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 1O0EKE8EWD066GUG8JI1JFF4YZHHF6
+--------------------------------------------------051221140057.encry--------------------------------------------------
+HASH: 57710025453abc339908085d86521b6c
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: Q7EC8GHFL7PHPPACDISK8Y
+--------------------------------------------------051221142524.encry--------------------------------------------------
+HASH: e02ab4842b2c3b5174a5e9f3518dbbb2
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: O71KLIM5N6QMP9V4JOE9F7YV
+--------------------------------------------------051221143146.encry--------------------------------------------------
+HASH: 3c51ffaaa318b4f20b4362cd920a16ba
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: YAGUYJBJJ1KVHE9E0314AZHL
+--------------------------------------------------051221143602.encry--------------------------------------------------
+HASH: 6b851037a673ddad0a2644a6238623c6
+Visita presencial. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: VK8I6C87RSUVET4L98S9T83
+--------------------------------------------------051221143913.encry--------------------------------------------------
+HASH: f3025225b7f3fa3f6cad55db8e707f84
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: O4MQ786LC0ANNBY5C25XT8DCRJQU
+--------------------------------------------------051221144126.encry--------------------------------------------------
+HASH: 60df5343316f9936d97d25288b1e06f8
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: S0YAPUG1HLNAJPO0PXW58MPYGCPEHO
+--------------------------------------------------051221144423.encry--------------------------------------------------
+HASH: e18f5292d7bf8bdcdd25614f8e563339
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: W6V6GJSJ4MZA6UHRW3KIVCER7CE6
+--------------------------------------------------051221170921.encry--------------------------------------------------
+HASH: 0b9392c7ad87f9d1df5f1a29a5aa9013
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: RZSA41TJRBIZKMSTOTY4JNUKTD0
+--------------------------------------------------051221171146.encry--------------------------------------------------
+HASH: 8df26aca19dffbacb6f441902b3ec2e7
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: IL3P0CGXVSQ9Z0MIY9TIW3Z0EMEJ5E
+--------------------------------------------------051221171334.encry--------------------------------------------------
+HASH: 885dea25de9cf094c61e3ad9b4aac9b7
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 02JSQEN6DRCD23KL9FRB56OE44UG4
+--------------------------------------------------051221171450.encry--------------------------------------------------
+HASH: 1bbadffbfb051ef276507008cf0a06c1
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: JWLOTT3UA4KCA8WTKQMXE54432O
+--------------------------------------------------051221171541.encry--------------------------------------------------
+HASH: db05cfca02b5cac4a2f71120c1052b86
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: XNMXVBRCWMNTZLN5SJM4T9W
+--------------------------------------------------051221171735.encry--------------------------------------------------
+HASH: 30984d60d6ffca676ee6c878d3aabb3d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: DFFY0IX4ZMECQ1DCCPKOE
+--------------------------------------------------051221185255.encry--------------------------------------------------
+HASH: 748b8a85bdc8ea372a2ed7b76d6be7df
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: IHT3MPAS6PYH5FU1F18CQJ13NYRXZB
+--------------------------------------------------051221185342.encry--------------------------------------------------
+HASH: 6043b22f37f16322c151135bc898a09a
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: HSDJPA5KHFKRG1ST1HTS050GTU5
+--------------------------------------------------051221185423.encry--------------------------------------------------
+HASH: 202637f2a56efe79d3db2f0062fcb0c4
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: 1Y498DSD48GG4DH8BLBD8
+--------------------------------------------------051221194620.encry--------------------------------------------------
+HASH: 7ebc90c2c9779c7493e71383ef1c1c09
+Visita presencial. Nao foi relevante. Coordenada atrelada (atrator). SALT: FASMZRMO44NEGGRQK9E93LGIGJ6
+--------------------------------------------------051221195135.encry--------------------------------------------------
+HASH: e40028bf98b2e24a186181b37b73aabc
+Visita presencial. Foi relevante. Coordenada desatrelada (atrator). SALT: 4M4B7DEI7APSCFMJTJQTF
+--------------------------------------------------051221210340.encry--------------------------------------------------
+HASH: 477256c19b2bb6185076f6c263e1ba2e
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: RH437N0KHQQDGR1H21B07KYZ
+--------------------------------------------------051221210620.encry--------------------------------------------------
+HASH: eced072da498849a7e31b88406b7a705
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: 4TBIALC3OVM9SJ3CULJZA
+--------------------------------------------------051221210937.encry--------------------------------------------------
+HASH: e24a7378d1fa9e0bd098a0e21b7029e7
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: RUQ467Y3UVROPI4J3CTU276QYNDFV1
+--------------------------------------------------051221211118.encry--------------------------------------------------
+HASH: d020ec746117df71970d7491c08be89f
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 2HAI4BQ8JT971FE3PQ6TJOY1R8M
+--------------------------------------------------051221211211.encry--------------------------------------------------
+HASH: e69147b0ff70cf932527fba6753cb9bb
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 0TVT6VI2WBN9OZRIDTR73YIMOX
+--------------------------------------------------051221212751.encry--------------------------------------------------
+HASH: e28563f953fadb982514d2dbb29cdef6
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 427CMYRF0HGIQGOP7QXCTPFSXX0LE
+--------------------------------------------------051221212941.encry--------------------------------------------------
+HASH: 558fbe4157dc0d28e15eb6c8734dcdfd
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 7U4WVS5RXL88TF1F7RBC00771FZG
+--------------------------------------------------051221213019.encry--------------------------------------------------
+HASH: 3d0ff6a427f6b6d9333567ad0d30afec
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: Y6JCIWO98Z5X933WNLRV8PO90ULM
+--------------------------------------------------051221213227.encry--------------------------------------------------
+HASH: c7af6d0887881f87152c004bff10f0c2
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: TCY5OBA3YS8SE7OG4G3MEFWRG
+--------------------------------------------------051221213603.encry--------------------------------------------------
+HASH: 71e3fdcaf6ba9fe31465560a089b8e8b
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: AJ4J2WPG0P3N8FEPRSX89Y9HKPPPS
+--------------------------------------------------051221213746.encry--------------------------------------------------
+HASH: d2eeffa74e322cd810ea5075942989f7
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 810JRUAMMXU54GP20IYHGLGPE6
+--------------------------------------------------061221032910.encry--------------------------------------------------
+HASH: 1d5d1b14c70b4442d0d13bc07255f513
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: TAN8FDYOAXCC18AC69L1KZAJ708
+--------------------------------------------------061221033127.encry--------------------------------------------------
+HASH: 457208f3255bf6d2b3cc5bd1fdf89049
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 7POE0Z05JCC1VH7GPLNXQBIOO
+--------------------------------------------------061221033318.encry--------------------------------------------------
+HASH: f230e6f685831e7233659b8414430ba5
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: HK878ZZW6QDNK72PUZWIIL92TDRP
+--------------------------------------------------061221033508.encry--------------------------------------------------
+HASH: 25babdc253d295a07da361d907e6ec72
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: E3WQY984HYUY8IYJJHQYLM
+--------------------------------------------------061221033641.encry--------------------------------------------------
+HASH: 7902fa6b5fee391c646aa19fa544664e
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 4IZ8XUBF04NPHRZBIEDW0
+--------------------------------------------------061221112819.encry--------------------------------------------------
+HASH: 82ba2de8ca77a2701cb88fb3017cb6e1
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: UEKSKKR2IKGGAMM3AP1L4TVO
+--------------------------------------------------061221113007.encry--------------------------------------------------
+HASH: 9ffc03e6da1d747f9a2a3699e1e2e0b9
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: E34CYNRWAMNQ17772YHMNUK4QC
+--------------------------------------------------061221113109.encry--------------------------------------------------
+HASH: 2d23ea886f6a9081396be5a24045b896
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: QM46R4BMIE2A1YAHR802RDUKBRK8
+--------------------------------------------------061221203321.encry--------------------------------------------------
+HASH: 3a6024fcc23920b298535d9064ffc3f0
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: A8KS8FX1MTX1R9YXZNEHA3O1RHQPB
+--------------------------------------------------061221203606.encry--------------------------------------------------
+HASH: a2d06d3fd0dc0b2a606cf79c065f1a37
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: TFYX520X6HFMWYHCVKQLIHAK
+--------------------------------------------------061221203720.encry--------------------------------------------------
+HASH: d53a0f7abedc308826f3dae0e4d17496
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: S6X2SMPFPRAHYLDTNN14AEIEBF8ZR
+--------------------------------------------------061221203749.encry--------------------------------------------------
+HASH: 3832f89a313c561f38b5e16dd5f699b0
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: LHXQL5EI5QUTRVC8KC8BBIDXK
+--------------------------------------------------061221203823.encry--------------------------------------------------
+HASH: 789a7a80e8d97797f8f301b181e133ab
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 8BAGYNVF81Q2ZZTSOLTGMI
+--------------------------------------------------061221203845.encry--------------------------------------------------
+HASH: 6fb63a7b85b13250e65ecef5ef67057f
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 1TK60ZB09PX6QM76YSMWZ6W6Z1NIF
+--------------------------------------------------061221203951.encry--------------------------------------------------
+HASH: 239f63bd71616007fbb7022c279dd92c
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 868OZ83CVA0DINOPB855P40Z1BD3U8
+--------------------------------------------------061221204346.encry--------------------------------------------------
+HASH: db41295e9e210c07932127b8b3184ae7
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: CA74CCY0YJ83UX30A93UHK9DQ
+--------------------------------------------------071221033519.encry--------------------------------------------------
+HASH: 8d6d5dd2b5c531d88dc81dd13c90f03c
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: WV7GP8KQK26BO34SJWLOO8T46NN5UN
+--------------------------------------------------071221033642.encry--------------------------------------------------
+HASH: f0e3c918bb68259bfde2108a96e5f5d9
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: S6XDVA6DY9H7EX7OUN75XO8
+--------------------------------------------------071221033722.encry--------------------------------------------------
+HASH: 56002ca9ed6b5d8c4940d276717fa706
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: KAJC7RQ7PH0HD3E0KPXQOFMB5F94GB
+--------------------------------------------------071221033823.encry--------------------------------------------------
+HASH: 9188b10029aedbb71c76c62736d9232a
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: VD5UYTQXRVGVJXPS280OIGW2B
+--------------------------------------------------071221033929.encry--------------------------------------------------
+HASH: dc7fff2054506571918a00e781c1c6b7
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: NW57EWCE7FH0UTQKBFYCJ4Z
+--------------------------------------------------071221034000.encry--------------------------------------------------
+HASH: 2843835168627c287d4b59029c2fa26e
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: IYGPIXBYED2YGW07HFWA8N450
+--------------------------------------------------071221165254.encry--------------------------------------------------
+HASH: f84f4216fa421f1ff77b4d69cef2d1bc
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: GR1CJM5OPEMQJ0TD27K94Q9
+--------------------------------------------------071221165350.encry--------------------------------------------------
+HASH: 3764f4f48525b3a99b90aae2c12802cb
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 7NZGF0QP1BZ4ISNAVFDTCUNU8LA
+--------------------------------------------------071221165437.encry--------------------------------------------------
+HASH: 55191f5bc267c5d4bb9ea859ab8aa73d
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: TWNPNB8VRVSVAR0DUFSFADJ
+--------------------------------------------------071221175904.encry--------------------------------------------------
+HASH: 002cf2cfa82f8562e1f8a8039106c295
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: EUKILKRJ2CYGU77S46IUDVI
+--------------------------------------------------071221181155.encry--------------------------------------------------
+HASH: 64bddf26bff547e2f0ac70143eb3987d
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: H2KCKQ4SF2GJH2ROMD7E7DJIN
+--------------------------------------------------071221181322.encry--------------------------------------------------
+HASH: 101c27df290c934b527bf0aaed526075
+Visita presencial. Nao foi relevante. Coordenada atrelada (atrator). SALT: L78Y17AN4IGFAVYMW0JETOE4ZP8D
+--------------------------------------------------071221181418.encry--------------------------------------------------
+HASH: 99babe4f3d3ef7ac13346c9497cd7e24
+Visita presencial. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: WS4QAQBZNKG4F38WMX3X7NGBU
+--------------------------------------------------071221182441.encry--------------------------------------------------
+HASH: 617166e0be1a0b067d7aac73749c124a
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 50UOLVLJ5KK33NI7P3EWCB23TX
+--------------------------------------------------071221183002.encry--------------------------------------------------
+HASH: 7530bc79c19e2319e3aa96435ff4d441
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 9SGSOXU9K4IC72T4W6A89V
+--------------------------------------------------071221183147.encry--------------------------------------------------
+HASH: 85d13731d8f94b7aca73df62fa266f17
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: YUNJFNVFVPCZXQSUTO0OLKBPEHXB0
+--------------------------------------------------071221183454.encry--------------------------------------------------
+HASH: b94705aa5549672099095bb097705bd8
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: B4ZJK1YJLQWI3WJDK24GDXKD
+--------------------------------------------------071221183613.encry--------------------------------------------------
+HASH: e0f18eba14cc26a5825a972784101cd0
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: 219R6QNZH1OFEMEU2O6VZYLME8AGAH
+--------------------------------------------------071221184008.encry--------------------------------------------------
+HASH: 26e86da75f1ff3d2aca98c96cd0388b2
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: XI2SFITBMQ0S8GMZUBDH9V6KXX
+--------------------------------------------------071221231842.encry--------------------------------------------------
+HASH: 5cf334467f7b6fffb492a126f6fe7e2e
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: BNQKRGYH1S30SXVYSABSEM
+--------------------------------------------------071221231944.encry--------------------------------------------------
+HASH: 322eaf6e19a1efefb316f5a78b4d81ac
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 4N9P8PL1FY6JZFQWLH9KIC
+--------------------------------------------------071221232037.encry--------------------------------------------------
+HASH: 9fdd1c92d3180dab242d0f93365c0e44
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: 2GDX5LGO91P93DX0D28XMUTA5K
+--------------------------------------------------071221232123.encry--------------------------------------------------
+HASH: 7b2128de396df8c771402c6bc99a4dcb
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: OQN0Q36N2DSZ9HX6CB01ULZR
+--------------------------------------------------071221232400.encry--------------------------------------------------
+HASH: 36624bb9ca6f8b27dedd432fc73139fc
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: RHDLQCRRV7FANLD33TZMSJ
+--------------------------------------------------071221232445.encry--------------------------------------------------
+HASH: 4041aab9fee34d979a1d9a76f156e503
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: I31EZNMUMSUJKQXXB1OAXWSZQRCJD
+--------------------------------------------------071221232525.encry--------------------------------------------------
+HASH: 15261676adc5e6657ae23e7624594591
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: INP8UF2GH0CQDK801IBI7PM8W
+--------------------------------------------------071221232532.encry--------------------------------------------------
+HASH: 29d282460ae8aa4b7d2ea25816c4f6e4
+Visita presencial. Foi relevante. Coordenada atrelada (anomalia - vazio). SALT: VKS9BV588G89V1AJXGPZUX7F
+--------------------------------------------------071221232558.encry--------------------------------------------------
+HASH: 6e1c07ae89ff04a0c1ec0036ef5088ac
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: E9LWMFJNA23OJB7ID3EO8N
+--------------------------------------------------071221232758.encry--------------------------------------------------
+HASH: 04bf1647e9785285e0a4429845b37d1d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: WTRXGLJL69D9ELG33G0ZF92PITIW
+--------------------------------------------------071221232841.encry--------------------------------------------------
+HASH: 83f8b868f1b83e13721d8e7c9f5dfaf6
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: KAFLM0R7MC0LCL562ZW8O
+--------------------------------------------------071221232907.encry--------------------------------------------------
+HASH: 9dcf591f1fc8591ea8050c7e2cea9aa2
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: DJXT5JDV84RRE7BB0E3XUSMTP0R2I0
+--------------------------------------------------071221232939.encry--------------------------------------------------
+HASH: d99186cc67a00c332f65df5b9ad98037
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: QPMCPMBPWRSJOX8D627PSO4Q0
+--------------------------------------------------071221233040.encry--------------------------------------------------
+HASH: cdaa56fcc880eb18c8761c82a50110b6
+Visita presencial. Foi relevante. Coordenada atrelada (ponto cego). SALT: TBREP7570BX10H1M02660PXV
+--------------------------------------------------071221233142.encry--------------------------------------------------
+HASH: 71c239bbf795269c406f4eed17b5bbb5
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: N0N7ME6YDOQLPHY8HRUTLVKTZ
+--------------------------------------------------071221233214.encry--------------------------------------------------
+HASH: 4cdfe4c91cd93deda3de7a24c8b4d0b7
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: P8JB4QI8VRZDV9G7I66U3GR7
+--------------------------------------------------071221233225.encry--------------------------------------------------
+HASH: afd5bd588aa09d5eb7557f2e3515a6bf
+Visita presencial. Foi relevante. Coordenada desatrelada  (vazio). SALT: FMW1FX7M1LMF2VGA90DXZ61EC22EU4
+--------------------------------------------------071221233346.encry--------------------------------------------------
+HASH: 01b55bbdd6c4bf46fbcf872ed64ecac0
+Visita presencial. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: ZPK5MW6M3CJT0SN3VV37TX5Q
+--------------------------------------------------071221233417.encry--------------------------------------------------
+HASH: 16f00197a96aaf9fa9f9ce439b271230
+Visita presencial. Foi relevante. Coordenada atrelada (ponto cego). SALT: 9PHIZCHZ8LSZ7HWKC5U7R
+--------------------------------------------------071221233435.encry--------------------------------------------------
+HASH: 5456aa9c0c837f32025fea7e5f79a414
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: PE6WDIS1CFKR0OIA4ILJN
+--------------------------------------------------071221233524.encry--------------------------------------------------
+HASH: 4a251824860e2c0312beeb424729a763
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: GOO5U2NA93A6C3KJKFQ7DPE
+--------------------------------------------------071221233634.encry--------------------------------------------------
+HASH: b371b15de8d6f1415fb5ab051f6d55d7
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: LHWFQOMXL5MM42MGZPIXCN8
+--------------------------------------------------071221233635.encry--------------------------------------------------
+HASH: 02495e5872fe2e057e3dd59c5b8f8fd7
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: B1ARDL0LGTFHLL9ZEK24EYC4JQSIQ3
+--------------------------------------------------071221233759.encry--------------------------------------------------
+HASH: 9668b177cb289166934e554a1c170897
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: J18G1HCBOCNX4GICE7FL1AHUKIF
+--------------------------------------------------071221233819.encry--------------------------------------------------
+HASH: 8d5023e72f7a736feb36cae4e488ba63
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: SFGEID101KUBDBQ6NSYCDXOGE
+--------------------------------------------------071221233949.encry--------------------------------------------------
+HASH: 21cb89cfc5c97c4da9c097d1f265c4ed
+Visita presencial. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: FK4MHYBCIPSZ52OP4SCFW54CJSSMS7
+--------------------------------------------------071221234022.encry--------------------------------------------------
+HASH: 672b72deaa659ec5413a2a622eaaf65b
+Visita presencial. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 2B5YH3C2NORJOWFBBV05369R0
+--------------------------------------------------071221234045.encry--------------------------------------------------
+HASH: a11e02178aabf479a285c6557000d31c
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 3MCQJ8BI4HUIW2YSV93UKZ8ZA9U48V
+--------------------------------------------------071221234053.encry--------------------------------------------------
+HASH: 7acfa5c2f97e212c6bee3278e4e78820
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: PDSDZB8TC2ZP6L8S3XNF9
+--------------------------------------------------071221234120.encry--------------------------------------------------
+HASH: eb4885622518eb27badf94ddb9a313d5
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: V8SDV26ZK3XF6412KLFQRFQAZ
+--------------------------------------------------071221234126.encry--------------------------------------------------
+HASH: b0e8a042a948e455836f11807a6ae8a2
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: NNT7Z4DMEKXHW105J23IXD8X4GA
+--------------------------------------------------071221234159.encry--------------------------------------------------
+HASH: 1d1ab7220a4025c16444a37c8be6fc85
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: UIASSQB0WUE4M9ARQGFR1O7X8V
+--------------------------------------------------071221234230.encry--------------------------------------------------
+HASH: dd8f6f65038bc79aa294c78fc3e6aa26
+Visita presencial. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: ZS5NRIM2ZWS339IZUXHZGNYDZ
+--------------------------------------------------071221234316.encry--------------------------------------------------
+HASH: 6496bce40f1dc6b41915bb9388ecbf86
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: EQGDAY9J6THDLD4M7ED94A56VZ
+--------------------------------------------------071221234341.encry--------------------------------------------------
+HASH: 39dfa7c7f91e9d6e7d4387962bf7b5e8
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: PE0A3DSQHONY2ZM73BKLNIPDT3H
+--------------------------------------------------071221234406.encry--------------------------------------------------
+HASH: 273eec12c286d79d10b43590b976f94e
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 18D0RIBWB84N6TMIL658JG0UJXNO
+--------------------------------------------------071221234617.encry--------------------------------------------------
+HASH: c85f49958382e09f13cb9de4d819422d
+Visita presencial. Foi relevante. Coordenada atrelada (ponto cego). SALT: KODZOFEP1SASDJGMURNDZMN
+--------------------------------------------------081221122341.encry--------------------------------------------------
+HASH: bc560f89b6ef979a450f311dd3e3a27d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 0ZUYZXCMWOKS9WS6U7PMFE
+--------------------------------------------------081221123539.encry--------------------------------------------------
+HASH: b9fd45fde0f7d2b06614cc99eeb0e662
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: JPQ4JII9MYYOBQWU54S310PHM
+--------------------------------------------------081221123842.encry--------------------------------------------------
+HASH: 468c844552d2c856d0cdcfd324deb141
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: V01OE3AIZHZJ2QIROWBOY4HW
+--------------------------------------------------091221034223.encry--------------------------------------------------
+HASH: 3a5b512ba75def2e8d34b5101b204d6c
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: AW9ZL0I8IKDZCK1IG7ABJES
+--------------------------------------------------091221034420.encry--------------------------------------------------
+HASH: 88d2540dab088378e8199c1f258b1e94
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: JLW8I4DHET1QCRANAFAP1GQOP80SA
+--------------------------------------------------091221034600.encry--------------------------------------------------
+HASH: 027d53619d2eba7d6c99658bd1b597b7
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 3HM2O9QSVDB9DDXYZQEYI
+--------------------------------------------------091221182707.encry--------------------------------------------------
+HASH: 65361ef272f7fec6f3386ba64ac8c269
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: ZLJG6BE6K3B5ZFPVCE8GE
+--------------------------------------------------091221183148.encry--------------------------------------------------
+HASH: f0ee808a234291df3f907052a3629ceb
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: LVK4PSLB2DLVYEO9EA7DL7
+--------------------------------------------------091221184618.encry--------------------------------------------------
+HASH: 7c27c82271434f0c550f29236e562e4a
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 4I3U8X5H8LVABALJRY6IBYG
+--------------------------------------------------091221184858.encry--------------------------------------------------
+HASH: 1c256b071137cf572d3d82e80532fb0b
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: V3KE4CL0FEGPH4B2DSA2OSGQD
+--------------------------------------------------091221185500.encry--------------------------------------------------
+HASH: 2dfb14cea58502a96694179e6893f26a
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: GRASPEK0DTF5EXHUMIQLGKTLV5J
+--------------------------------------------------091221190149.encry--------------------------------------------------
+HASH: 3c496cf7e2c15c34947eb4c282fcbf30
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 6CHQ5646QYOGZ4313C8DCF
+--------------------------------------------------091221193551.encry--------------------------------------------------
+HASH: c0d1d1733f4eb5dfd94a3c496bf5dad3
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: ILI6KPA7Y11YMDVHEOG5JLYXU
+--------------------------------------------------091221193745.encry--------------------------------------------------
+HASH: 8641c2eeff283818f4008e358ba020a5
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: Z5ABGRYF7OA2KX98RXWMYU
+--------------------------------------------------091221194049.encry--------------------------------------------------
+HASH: d7c7c889ddc329953ba69407defe7981
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: GGK5YJ1SPCYII7HBEKM8R31NW3
+--------------------------------------------------091221195115.encry--------------------------------------------------
+HASH: a4a301e1771c88c475ff78ae8c5eaf4c
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 3I99KP5830JOUV83D7MEW9KEPN9
+--------------------------------------------------091221195748.encry--------------------------------------------------
+HASH: 7df09577d87b644dd2e86fa1a3c749ca
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 4EJKDUUQR7VR8S42ZPCCD9UN
+--------------------------------------------------091221195919.encry--------------------------------------------------
+HASH: dcaa7afbb27385904110a953d7752add
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: QL3SEDOH4KZUS3CY1HWML6C2V
+--------------------------------------------------091221200612.encry--------------------------------------------------
+HASH: 99e8255f7a2004a5617a74093b90f66e
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: G0JWLKUTGCNRF1KU5W1JXRQ9
+--------------------------------------------------091221200826.encry--------------------------------------------------
+HASH: ba62971e69b641e60964effb8ccb3db4
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: EL57BVW3F3H8P5LPJ42NH
+--------------------------------------------------091221201408.encry--------------------------------------------------
+HASH: dfbfe2f88d906389d3c4abb40a0686dc
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 9P2AQJOUNZET8NDL51Z93EBEZ
+--------------------------------------------------091221202026.encry--------------------------------------------------
+HASH: 81208274d3267eb259703ce0cc4befd6
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: ZSIZHYNPAKRFBPI1QORT51RXNK
+--------------------------------------------------091221202658.encry--------------------------------------------------
+HASH: d31f1809f8f70e660e4b10458c34e8a6
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: KPFBRQZNVWQXGK1N139W5Y26
+--------------------------------------------------101221170704.encry--------------------------------------------------
+HASH: e1c2f3aac2927c0573bac3afaa459e39
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: K7CHZOVYL9MVQTS3T14B5IM
+--------------------------------------------------101221170816.encry--------------------------------------------------
+HASH: c300038bad2a78e1849b820181154542
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 0EOOJ67CTGN1BAADS4E4MLK
+--------------------------------------------------101221170918.encry--------------------------------------------------
+HASH: 0da5e2e7cc49e2db6a94da59413b1531
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: T5Y7X5AYSKX7W8J9KMMDUJGZ
+--------------------------------------------------101221171010.encry--------------------------------------------------
+HASH: 040b0eff9e9552919591d7eeb8b9c741
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: NK6YE857A1XWAP3E27WDUR
+--------------------------------------------------101221171050.encry--------------------------------------------------
+HASH: 2c58709e9397f50cdc2cf4c842a6d30e
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: AMEFTWICD6AJUDPEYH36AA
+--------------------------------------------------101221195202.encry--------------------------------------------------
+HASH: b1bc1966de734a26b16948dcb3d8e9d1
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: UX312X2AP6QWUI1L4LJELCQ
+--------------------------------------------------101221195435.encry--------------------------------------------------
+HASH: 6cc5b3824697775a3d2420f940beb02f
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: X91QBDCILFP9PEUNFZ25V2T
+--------------------------------------------------101221200632.encry--------------------------------------------------
+HASH: 6f6827f2505d0e2b15a12992eef2a14f
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: Z9ZTEFCPRWAZ1ED7XHHMMTD20YH
+--------------------------------------------------101221202332.encry--------------------------------------------------
+HASH: a106d4bc020c4c9445d1a4c07de0b98a
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: VS5IP35FK6LFKXW520IG4KL5
+--------------------------------------------------101221233533.encry--------------------------------------------------
+HASH: 2a43086bd4fb7a888db371f5e8c56c44
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: VY7E6AX04LDNO75VVUFSCDXN
+--------------------------------------------------101221233621.encry--------------------------------------------------
+HASH: a5e7d732ebbfbc2382f319d26c771270
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 93XBME9F41WUUF1LV64V5
+--------------------------------------------------101221233717.encry--------------------------------------------------
+HASH: 0731786f3d0f1fd38cba39079a939e15
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: X0DLP9P57IK97R8Q2A6RK6CT
+--------------------------------------------------121221000439.encry--------------------------------------------------
+HASH: cf5f057d5dd01adb0e8c21b32ea44c03
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: Y1ZWIVCF6IRKUWGAQWZU3Q
+--------------------------------------------------121221000646.encry--------------------------------------------------
+HASH: f44763e6f78cab2d9c292a373cedf48a
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: Z2T7VL74UJG9W5JJHEWJYA
+--------------------------------------------------121221001347.encry--------------------------------------------------
+HASH: 33eec36e4ad9d57c613ecb4af34c9fea
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: 615OEC0HA1JOHUANF4X1ND3BUQBLZY
+--------------------------------------------------121221002018.encry--------------------------------------------------
+HASH: 252e7106479df450ab8a6a2297374803
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: TL1XTW4V5VOJU8MHIX4LRANN4
+--------------------------------------------------121221002107.encry--------------------------------------------------
+HASH: c877c08d509fa38f1e1f5ecad805af1e
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: 6DKOP9N6L9WIDRGYYOMUX2TB9
+--------------------------------------------------121221002222.encry--------------------------------------------------
+HASH: be0fcb7a9ff0d8c9e4053a9f5e0705e4
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: KNNX5H49QP27ESZXMEXI1HND7
+--------------------------------------------------121221002258.encry--------------------------------------------------
+HASH: 55ed9114ee84b929d3fda51babc7ac20
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: K31UGAF2ZWPFSHXGEAD06V
+--------------------------------------------------121221002332.encry--------------------------------------------------
+HASH: e6d875b71fc184c2e3449d5efd3b1d63
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: N7B7321UNO9LDY4OGTFO7ZPOYRLTVD
+--------------------------------------------------121221002412.encry--------------------------------------------------
+HASH: b7b14c3c60b6ecf69308dbae7b4031c7
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: IZQPOY5TL9F9H9BU4DBFJOA2
+--------------------------------------------------121221002452.encry--------------------------------------------------
+HASH: 69da7993a8120250c26cb6ba0a9e34bb
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: YIF9JWPU6L670UJ3DSSQ8
+--------------------------------------------------121221002527.encry--------------------------------------------------
+HASH: 1cf0f39682ac20cbb99a13e32efc3aef
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 4OI0Y0MITMGD6OPLLOMFQYOJFSL
+--------------------------------------------------121221002600.encry--------------------------------------------------
+HASH: 098c2dcebdbab30de7f00350cc3253db
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: FJ87XRMS3ALLIV0UCBWYLTYUQOZFN0
+--------------------------------------------------121221035946.encry--------------------------------------------------
+HASH: a510a8d25ebc3f0e5697b22998782016
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: OQQOTUYW0QD7XHBF4JW0AVI2BUYLGS
+--------------------------------------------------121221040210.encry--------------------------------------------------
+HASH: 4b09f08088134ddf1f1caa662ea50dca
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: Q3KUPM5Q2H3X0FA3ELNPAMN
+--------------------------------------------------121221040543.encry--------------------------------------------------
+HASH: b3d8b15baaaaba4e997b547fc2cfadda
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: YXQBGCOFPJDJCZTH6UXUQ6KC3A2DL
+--------------------------------------------------121221041319.encry--------------------------------------------------
+HASH: cfdf2bdc08d85abbef541af6ad80c304
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 24JURIJG7M0ESR51H7DA4QJ1JC
+--------------------------------------------------121221041433.encry--------------------------------------------------
+HASH: 7252124ec7d5184177cf57e7fcd75d59
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: VEDE157SIESS84PG3HVZPHP
+--------------------------------------------------121221041544.encry--------------------------------------------------
+HASH: 7a8aa09f84c03aa2e75d21d45e4a3431
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: B56P5ZLGCDBPA3IHP83TFCC1NV4A
+--------------------------------------------------121221041801.encry--------------------------------------------------
+HASH: 81330e733ac9d052d1a9efdc66142357
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: 0GNMMM2XUQIUDYCKG9QC6AUIX0
+--------------------------------------------------121221041909.encry--------------------------------------------------
+HASH: 74eb540a42997f0e1dc62eb4f96973d2
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: ROWAXTRLD3DGQNY189MX6KY1JKHIP
+--------------------------------------------------121221042109.encry--------------------------------------------------
+HASH: 92e871767c54a2b63c40376841f1a3ab
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: LVUKERAKNDOJBG6SG4IV3NZW
+--------------------------------------------------121221072602.encry--------------------------------------------------
+HASH: ecfefb6cee84560f2fbaef18780052bf
+Visita presencial. Foi relevante. Coordenada atrelada (atrator). SALT: RZXRQFLMQWMEP5OFFG3ARPYDBW8YJZ
+--------------------------------------------------121221215700.encry--------------------------------------------------
+HASH: 0d51a75d190bcdc9f378f60af596506f
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: T5PB6WJLJC72DTA1R5IMR
+--------------------------------------------------121221220002.encry--------------------------------------------------
+HASH: 509e7642018b7e25bd43254ec0cef5c7
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 7MZPRZCJC1CFJFQW5I3CU88UWSIKZ
+--------------------------------------------------121221220257.encry--------------------------------------------------
+HASH: 6fd91a95cf8797b05a2bf0a5a4023d6b
+Visita presencial. Nao foi relevante. Coordenada atrelada (atrator). SALT: E7L5R50PH5AETXZBSZSJ7
+--------------------------------------------------121221220405.encry--------------------------------------------------
+HASH: eadad355310d78b950cb330c19540a22
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: PT5C4DWA4IF54LG3SNGDJ1
+--------------------------------------------------131221092051.encry--------------------------------------------------
+HASH: 56a084a0e81e422e34f26bc9383f92d3
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 6OA9EZ5QJ9FVWBEFPMKANKN3ZCYJQ
+--------------------------------------------------131221093321.encry--------------------------------------------------
+HASH: 5dc85578732a136fc88d196f3cfa5162
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 61167I4UF8NETB5COSON2TTL8EXP
+--------------------------------------------------131221093556.encry--------------------------------------------------
+HASH: 3271b4d52414b25c4a293cc5f372183d
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: TYWB2P6D83EQ37RIV8YT9
+--------------------------------------------------131221093747.encry--------------------------------------------------
+HASH: 5bb2b53d855068645e176a895a0ca4d0
+Visita presencial. Foi relevante. Coordenada desatrelada (ponto cego). SALT: WXBQFJUISZ3MSW2AD30RFXVM
+--------------------------------------------------131221094059.encry--------------------------------------------------
+HASH: c1b4827e700d3016a59d99cea5826d7d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 6JE7RN4RBD1N08EAYZ89HFWGT7QA
+--------------------------------------------------131221094329.encry--------------------------------------------------
+HASH: 7984e3af9a72b9a63660f3b762293c3b
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: B7KE449WYSU4WPYOHNFK9O
+--------------------------------------------------131221094934.encry--------------------------------------------------
+HASH: bf7a179045413ddd2951fe63ea42206a
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: I9ABJZ4BLWDMF6RQU1FCB4
+--------------------------------------------------131221142529.encry--------------------------------------------------
+HASH: 38928eaba40143b79d8bae868eaf0ee7
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: EWVEE0FD1POATQO2RSDEQ
+--------------------------------------------------131221142718.encry--------------------------------------------------
+HASH: 9963d1ebf74d1c190ab3e30d11735c0e
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 726C466YFW1V1L6M6TI5PV2RW9Z
+--------------------------------------------------131221142818.encry--------------------------------------------------
+HASH: b82cd0bb2e4b3cf0f66defbeb4a0955f
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: 6ETDX1NXX8N5Q22OVTV299DOC0
+--------------------------------------------------131221142930.encry--------------------------------------------------
+HASH: bff9262811af71af214b82855102b77a
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: MHU68JN588ZOUOB8E4ECP2TD7QXG4
+--------------------------------------------------131221205609.encry--------------------------------------------------
+HASH: d73fd21b25419d9f3e693296dc956eae
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 281WQJ60ANCHM1D4OMLKDB81
+--------------------------------------------------131221205813.encry--------------------------------------------------
+HASH: ae887302e25ba0eeb9802be4ddc8b53d
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: PN7RZ20RX30ICDGJ1CEHQGOBCU3
+--------------------------------------------------131221210237.encry--------------------------------------------------
+HASH: cf69bbf48355915035459702adac34e3
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: KON6WENK6DYJSJCSQDO9N
+--------------------------------------------------131221210417.encry--------------------------------------------------
+HASH: 5ce9945e7094e8b2ecb395e3d6d01f8d
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: RC9DMBODJUJMTZE1AJTCE5R
+--------------------------------------------------131221210537.encry--------------------------------------------------
+HASH: a041545bff37ca2095e38df2faaac376
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 9M44IFC6ROT710DV7GB0Y
+--------------------------------------------------131221210738.encry--------------------------------------------------
+HASH: 8e1cffaf48a98c5af95e3a82e44abc54
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: D52PLAAFYLCUI52HBOJ77T3Q
+--------------------------------------------------131221210904.encry--------------------------------------------------
+HASH: b0cc420a00f78bdb4b3b4871ad099f30
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: ETI4YWD7W1W1GE3L7ULKEG1E2ZV29
+--------------------------------------------------131221211315.encry--------------------------------------------------
+HASH: 3b915f11266ff70dfa07eab0a14f50c9
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: QJI9I05041LBW9LH9NPR52K0VEA3
+--------------------------------------------------131221211437.encry--------------------------------------------------
+HASH: 545c0400fd183f867c9fad65726730c7
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: KGCZIHCAFF87V18RQ3BO1P
+--------------------------------------------------131221211528.encry--------------------------------------------------
+HASH: e506a0f445642638d4d99cd603f54641
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: NKNIQQPYRGH05POSLUMO1U1BB6
+--------------------------------------------------131221211616.encry--------------------------------------------------
+HASH: f8acfc210d1507e1d64b97a31ca861cc
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: LEOVGCFFSALBI6CRNFN4ZZEC2M
+--------------------------------------------------141221202939.encry--------------------------------------------------
+HASH: 75bcffe334323ac5cdea486a87327516
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: HCS9U36X7WAYYF64TCWSQPNY
+--------------------------------------------------141221203558.encry--------------------------------------------------
+HASH: 2a8cdba84c70750501fe08f15a92dd86
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: HGOU9FWUTEK2CAP0TR17UR26
+--------------------------------------------------141221204100.encry--------------------------------------------------
+HASH: 2149215b0e1d97979763e724348adde3
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: AD5JXTX63CTIKHAGCGSLLEDVNL3MW
+--------------------------------------------------141221235914.encry--------------------------------------------------
+HASH: 296a5b3470f2b40acd7817c617da7edf
+Visita presencial. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: TQURQR87DN8CTP3BPWZFVRYSX
+--------------------------------------------------151221001342.encry--------------------------------------------------
+HASH: a647fc3b6a5e09bd1bd09d4f03f7f6b3
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: YAZ2LF7DMN7KE5B3PPZ0XU5XY
+--------------------------------------------------151221001426.encry--------------------------------------------------
+HASH: cdbb0357c75611609d2670e11e06687b
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: D4W06OLWQA3SABNH7WSFSU064BB53T
+--------------------------------------------------151221001516.encry--------------------------------------------------
+HASH: 36613fbcc2fe60d5e63357ef040a39d1
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: ZQ1AT4EFVVTS2OU6WP2822L
+--------------------------------------------------151221001602.encry--------------------------------------------------
+HASH: 7726ee5da9d542c866c888f2d98f3b04
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: P7AYCM537GOCZCHGP09RMUBPQI
+--------------------------------------------------151221001653.encry--------------------------------------------------
+HASH: 8dd8e4afad7988c2ec2bd5c45d7d2820
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: X1DLBPS2BB324PJKPHR62G4422G
+--------------------------------------------------151221002028.encry--------------------------------------------------
+HASH: 2092384309d998ac35e20bf9e478e5c8
+Visita presencial. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: WJNUB6OVHU9YY093Z5IYSGJNI1A9I
+--------------------------------------------------151221002124.encry--------------------------------------------------
+HASH: 604537559fcedc8d7cd6c4d4baa5e1ce
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: OMNCBAEKP39SO7XVBTXJ8
+--------------------------------------------------151221002205.encry--------------------------------------------------
+HASH: 0d151da32d4cfbaf3c7d4dfec6e1cbb8
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: OG4P1MF53QVGGQ0U6L8TIMQG7KHNC5
+--------------------------------------------------151221002252.encry--------------------------------------------------
+HASH: 7ef852901a545078575b32f2f79fa507
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: XYGCO2H4AG0PK0FHU3U4YT
+--------------------------------------------------151221002327.encry--------------------------------------------------
+HASH: fdddfa8a6f3f144889a50521bccfbde4
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: D43K67K0AV5KIIWN25RZHQUWVHD
+--------------------------------------------------151221002411.encry--------------------------------------------------
+HASH: c57e9018b7e52c300abdf8d6da5ef2d3
+Visita presencial. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: YIWS330ZZYDE5PX4HII0AF130M
+--------------------------------------------------151221002454.encry--------------------------------------------------
+HASH: 6aa2723f53a0b6fc69b12396fa9610b0
+Visita presencial. Nao foi relevante. Coordenada atrelada (atrator). SALT: DMTP95N1SONLTD99VJYUN24J0
+--------------------------------------------------151221002522.encry--------------------------------------------------
+HASH: 7bd5c01fa593518031fcbad1c1243d2c
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: WLKN6QEJE9MMH8Y9F7KH2LXF8Y
+--------------------------------------------------151221002600.encry--------------------------------------------------
+HASH: 01f4b3c7252bff409c4a3fdb2501ad67
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: XC2O8ADX6GIB7GH2BIMM3J7I
+--------------------------------------------------151221002641.encry--------------------------------------------------
+HASH: 0197c1b8029b5b0ec0d769ce938ba0b9
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: B0QSVMG2TB4MEN6C1UUE41B4Z
+--------------------------------------------------151221002742.encry--------------------------------------------------
+HASH: 20ef4d322cdd44ce2fa3eea07541f19e
+Visita presencial. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: AQTFUCJ6MIA8BX512T4Y4V1IN9Y5
+--------------------------------------------------151221002830.encry--------------------------------------------------
+HASH: f1318327b1405bd893a37344606100b8
+Visita presencial. Nao foi relevante. Coordenada desatrelada (atrator). SALT: TYNVV3QSG1ZILLRBEKZ6TULF6UBCWD
+--------------------------------------------------151221002917.encry--------------------------------------------------
+HASH: 6bca8b9b1f616c2234d59afcbb591cf3
+Visita presencial. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: HQOPL57RSB5CHRIPPBNTUV9HMN
+--------------------------------------------------151221003413.encry--------------------------------------------------
+HASH: 08bb933fb98a4f52d999e1f8997fb9d7
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 841XM04KHA0MXCWE4JKRBRTGZ89
+--------------------------------------------------151221003525.encry--------------------------------------------------
+HASH: d440e9d0fdfd213620a85e6f82b4be1e
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: TA0VCQTIKZCYWWHIJNJPS2WP6
+--------------------------------------------------151221003602.encry--------------------------------------------------
+HASH: 55f7dfbc3f761adb80a717d7f634765b
+Visita presencial. Nao foi relevante. Coordenada atrelada (vazio). SALT: 0OU6PW78WX1OF5XAWS22EPTWCFS
+--------------------------------------------------151221003625.encry--------------------------------------------------
+HASH: f24925e6e91215289df838bf2118ff52
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: JRF1WXZ1W4U0J32XNODTYHWMO1V
+--------------------------------------------------151221003715.encry--------------------------------------------------
+HASH: 641383460ccf6117e66410145e2eefe5
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: BTU1AXJO5BJRAPEVERQAWVXZNKQV
+--------------------------------------------------151221003800.encry--------------------------------------------------
+HASH: e9ba41fade761788522e7d4da353d633
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: NCBZ8VM9YCB2ZIPT9MR6A3C7EYTD
+--------------------------------------------------151221003840.encry--------------------------------------------------
+HASH: 2d84e20a7a4cbfa55aa10f371a13248d
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: USNPFS8WMXTXD7WU4XPERVRVFU9K6B
+--------------------------------------------------151221003844.encry--------------------------------------------------
+HASH: 6b3271fa808fb1b8929ac52a0cc73332
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: 2TE8SID9JNHEVZR2WRBOR
+--------------------------------------------------151221003947.encry--------------------------------------------------
+HASH: f3f349babef433b7812c4baf26ae5372
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 0WLDOLRYI004Z4ZUGAWHLH6EB
+--------------------------------------------------151221003948.encry--------------------------------------------------
+HASH: 3eba8f38874c3fd0a8aaa34c865680c6
+Visita presencial. Foi relevante. Coordenada atrelada (atrator). SALT: SYACR8D8LLOBG1GN6OGFD
+--------------------------------------------------151221004029.encry--------------------------------------------------
+HASH: c3dec51ae412508925c0bd948b5c9247
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: BY2PHKG818XQEO7UNPVKB2WAR
+--------------------------------------------------151221004107.encry--------------------------------------------------
+HASH: 13755a5566dd730c681c8bd090af2041
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: Q2RJ806VJFQ4W8U5BOH00SU55IZMI1
+--------------------------------------------------151221004224.encry--------------------------------------------------
+HASH: a0501b9e519b454e127759c430335ff9
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 91IELXKBPKD6XB81RUWK5KOYI607E
+--------------------------------------------------151221034215.encry--------------------------------------------------
+HASH: 21bd66712547bdb14133e1c977df5c23
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: 6U1ZHCE6XULAXZ37A3QM9N
+--------------------------------------------------151221034431.encry--------------------------------------------------
+HASH: ad1524e24ea52583959286b287e35e0d
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: IA9R0QJGOEK496WLZTSPTWKJ0O5B5Z
+--------------------------------------------------151221035008.encry--------------------------------------------------
+HASH: 603bc4628e3c3dd03db0050b69c64863
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 2AW2TBF9GGURSPU94VB6Y0QEB5B
+--------------------------------------------------151221035630.encry--------------------------------------------------
+HASH: dd63878500e8de11be02a24d6c744baa
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: E72V6DYPO0IPM4J5QEV5MVM
+--------------------------------------------------151221173406.encry--------------------------------------------------
+HASH: 1f1cdc62c0755007fe199b145c72fa5e
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: 8CSA44VOGTZ9LDRYOMACO4V
+--------------------------------------------------151221173615.encry--------------------------------------------------
+HASH: ae9333b8863960abe4a772d60c4bf8b2
+Visita presencial. Foi relevante. Coordenada atrelada (vazio). SALT: 1EIFWS5VSVOA6KU5SF42WG3M
+--------------------------------------------------151221173728.encry--------------------------------------------------
+HASH: 93f5168c937059a9a9957374e467cd15
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: EO3CTCEWE98VE7FBZCTBEW7XNE1I
+--------------------------------------------------151221173924.encry--------------------------------------------------
+HASH: fe1758c8fac87f1f5fb857e5c26738cd
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 5Z6JXFF4H2EUB498FKMALC5S
+--------------------------------------------------151221174207.encry--------------------------------------------------
+HASH: 65cc526722dba19f02f372a9c950c0cd
+Visita presencial. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 5HEDQXNJ5EY647BNSFS72WI
+--------------------------------------------------161221004147.encry--------------------------------------------------
+HASH: 151a433683da5bc5a5305852f143fad2
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: IUFIDOJP0TUKSEWK1EZYMGA3P881
+--------------------------------------------------161221004505.encry--------------------------------------------------
+HASH: 709daf376adfec5d2c823c0b7078d698
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: MLSUVAF0NGV52K9OJZIPV51
+--------------------------------------------------161221005149.encry--------------------------------------------------
+HASH: 69b9b8733ea09ae6153cbdcdde58be8c
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: JTKP28STI7Z6LS4JRCE0LKJZBATJD8
+--------------------------------------------------161221005246.encry--------------------------------------------------
+HASH: 48e5aa87df7793ae6125b7e2ae61ff3b
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: N5QKWWK95YG1HGCZNULKB4ELB6PENJ
+--------------------------------------------------161221005354.encry--------------------------------------------------
+HASH: 90f1696f072d376f06a5e2ea0fdeb429
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: AFSJW9IM24R1TNXHHMX7HR3TRC6
+--------------------------------------------------161221005512.encry--------------------------------------------------
+HASH: 0dca77cd67501dac687cd444e87670a0
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - vazio). SALT: OFMOQYFKF8UD2H5G2X3F10R
+--------------------------------------------------161221005811.encry--------------------------------------------------
+HASH: b3fb52cfbeaf02b6c2998863106fd336
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: ASIYA0MTHV3XP4FG7F27XS8E0W0
+--------------------------------------------------161221193128.encry--------------------------------------------------
+HASH: 3ba340fc33f481e830e39dcb93e6ef8c
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: 1JHTUEB2KB7Z1I2EXJ4N3WXOE
+--------------------------------------------------161221194038.encry--------------------------------------------------
+HASH: 21efb2865c41fb16fe9aa13b756c584e
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: OX46DCGZCE2A5ZWNIZAJ4Y0T
+--------------------------------------------------161221194416.encry--------------------------------------------------
+HASH: 9264c6aa56c3a60c0b1e7c1784265869
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: 2B6O5VZN08TLFWBN8CY1QQ1TX37HS8
+--------------------------------------------------161221194651.encry--------------------------------------------------
+HASH: 5d444bf90e591708fb4b1f591405c32a
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: M15FJBB3HFK7LJX66Y28IR70O
+--------------------------------------------------161221195624.encry--------------------------------------------------
+HASH: bd4d67c68bf202e04430c5c514ded227
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: A5ZHEXSMQOFNDY7GJPNKCU9PV2HQ7
+--------------------------------------------------161221195735.encry--------------------------------------------------
+HASH: 7a822582fa12cbe627cf15a2091a0950
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 2GC3PFCIRBNHZUKFX5TAID6E79
+--------------------------------------------------161221195816.encry--------------------------------------------------
+HASH: 6b56c49a8a2564547d9b5abbd9d4d6b5
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: HF2L1E00FYM8ICGPCFA3ZT56
+--------------------------------------------------161221195902.encry--------------------------------------------------
+HASH: 18bb710d8d7e06b174b1e9be8f32402d
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: NJW74CG08XEJT8ICQAIYHGDMT7
+--------------------------------------------------161221195947.encry--------------------------------------------------
+HASH: 2c608786b0a1bad01335636086952e8d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 6VJELNFX8PN3C1SUPGF1NGUR
+--------------------------------------------------161221200224.encry--------------------------------------------------
+HASH: 61ffd289a608e7cfe086c427a2131053
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: ICMQAGOHEUDINAZLVHCXV3CIF4J
+--------------------------------------------------161221200311.encry--------------------------------------------------
+HASH: 6f2cfc1ee6271e989e8da7fee50485b8
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 5MOKB65NW17BIOO08XC8SLSURQY
+--------------------------------------------------161221200430.encry--------------------------------------------------
+HASH: a5088065aad8250de6cee8a6af75a206
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: GQ8FZ0DW9PX4OAYIEYG0LAWT6TR
+--------------------------------------------------161221200530.encry--------------------------------------------------
+HASH: 4122ff71e901dce7ffe992323bf2b444
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: FLTRDSG7AC78GGRGDU4TVH1JZDJX
+--------------------------------------------------161221200625.encry--------------------------------------------------
+HASH: 67cc5202082556040f516253bfb6202d
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: P8D8JGP4QCDWZ1LRQ28SBF
+--------------------------------------------------161221200934.encry--------------------------------------------------
+HASH: 5bb67bb4fd808b4db0d978dfbd15823e
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: F4B0G7PPEWTJTPG26Z6IDB7A9TS6UT
+--------------------------------------------------161221201047.encry--------------------------------------------------
+HASH: 04bdf3941184ddcf88b0ab4964be00c9
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: XP9QXZGQF0HDNMFQRCG50TWTO9QAP
+--------------------------------------------------161221201152.encry--------------------------------------------------
+HASH: dab41ffe4f6ba08ec8fe9fb4e2fc3aba
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 34A2W9FCY6HCAJIXS64EZCYM2PTK
+--------------------------------------------------161221201435.encry--------------------------------------------------
+HASH: f45843b7226d4cc8b0c7e183d70a172e
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: ZDME9I2I0A67HJ2SW0QCTL5284
+--------------------------------------------------161221201540.encry--------------------------------------------------
+HASH: 1a126f83ebdc7c775ca4ad49a25ab43b
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: RLEITG3R34T8DWJSITYN68U
+--------------------------------------------------161221201711.encry--------------------------------------------------
+HASH: ae9188cfc82703862ed4cf5521441311
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: UPKYP42MYPEMKQVVJDFNPZB64VPF
+--------------------------------------------------171221235728.encry--------------------------------------------------
+HASH: a37398bd6a6c6b63fc5c90560de52ef9
+Visita presencial. Foi relevante. Coordenada desatrelada (ponto cego). SALT: JRNJ3E1ARS900C5I9NGNJ1LVKS4UA
+--------------------------------------------------171221235817.encry--------------------------------------------------
+HASH: b83330897b28552b4024689e08016be7
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: I5LCYWFYD98OQM399U0LW
+--------------------------------------------------171221235852.encry--------------------------------------------------
+HASH: 525bde2ea5e3d22e0e563beb9956a267
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: KXIJ9QOTWZYFCB4MLKBX9Z35L8R65Z
+--------------------------------------------------181221000034.encry--------------------------------------------------
+HASH: 21bd20c5f2b98a3f11f2e03ce6aeb1b9
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: B7C38M4CK7Z4A7Z2TT2L62P73M7W
+--------------------------------------------------181221000139.encry--------------------------------------------------
+HASH: 694eecb415d0c27f99508ce2c5a938f5
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: A37VFW9EUFNLNVINTP9OJ
+--------------------------------------------------181221000216.encry--------------------------------------------------
+HASH: 8cbe0a9a365b3469cd76528bed5dc817
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: 9NZAA8P3MFV9JK0RDETXE
+--------------------------------------------------181221000311.encry--------------------------------------------------
+HASH: fe3a9ebe46852abc7f5bd6123044c459
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: CII5B9PDD6SSCYE8CRJ3EII6PWV0
+--------------------------------------------------181221000415.encry--------------------------------------------------
+HASH: 0d65dccdba8ccea2e0bdc3cceccce363
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 7NVAL4T7H51HJ82531TI0B7
+--------------------------------------------------201221205946.encry--------------------------------------------------
+HASH: a985a389c852488f04bd83248adabcd3
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: PWNCTZ1X1QHIE1Y13H5QQJ2DULV7WA
+--------------------------------------------------201221210108.encry--------------------------------------------------
+HASH: a0ff8af45ebe4f0aeb205a9374bdf332
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: EWPEHP1UOIUEQMM0V8A96IOZYMAK
+--------------------------------------------------201221210426.encry--------------------------------------------------
+HASH: 48a54c379186812a76bc9543a548b2a2
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: XWH04D5X4NKEOSL67YJBXTNLB
+--------------------------------------------------201221210524.encry--------------------------------------------------
+HASH: 2bdc81dd17f4c6b0a387b823bedc6c5a
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: TQCW1FHE252A0YS9NABJVE9ND
+--------------------------------------------------201221210621.encry--------------------------------------------------
+HASH: 20434aaca3d02e2be481e42d30283b5d
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 3TT4SV4GCI71IH56J5MWDCE21
+--------------------------------------------------201221210727.encry--------------------------------------------------
+HASH: 2b3388424454f89c6a23a5585e1c53d6
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: 6MXJK52A1XOV0JR5WS5ROV1W3JJ
+--------------------------------------------------201221210946.encry--------------------------------------------------
+HASH: f128ea6db29d23056d78ad2c6f1d8b12
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: FLUPR714I0MAPPF0RPMJTT3Q6P
+--------------------------------------------------201221211108.encry--------------------------------------------------
+HASH: 03d64ff24654a83b864e93cda2a4a241
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: NWMEE9W0XBL9P4ISO951G57
+--------------------------------------------------201221211152.encry--------------------------------------------------
+HASH: afe4a92d77719f80bf872736d814e014
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: BW7DRS6R4CB8XOI6X4PZ7CT6HRJ7
+--------------------------------------------------201221211241.encry--------------------------------------------------
+HASH: 49e6eb158b337ba538d4b14f2e46cc0c
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: P6KMWERS1TQQJIAMX07ND
+--------------------------------------------------201221211531.encry--------------------------------------------------
+HASH: 63fbc4af1e6095d0ada0d513e34ae708
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 4AT6RDCJJENSJEILQGJCK6
+--------------------------------------------------201221211623.encry--------------------------------------------------
+HASH: 4149d08273b6e55dafed87799aa67cd9
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: M5YW64338HSGS3W5A5N28O8YQLLK3N
+--------------------------------------------------201221211705.encry--------------------------------------------------
+HASH: 45c44bd1ecaf0ca2f7049dc5d7ec09f8
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: 8ANLO4FUYMK89MDQ861QBM
+--------------------------------------------------201221211744.encry--------------------------------------------------
+HASH: 451a5d9a87cb2f179153b647af6dfac9
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: KA6F0OPZYES2B1BACG44U8OBBGW2HY
+--------------------------------------------------211221131148.encry--------------------------------------------------
+HASH: 45fa3423883edd9404a041ded473e9b5
+Visita presencial. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 7T0L85UJ9DPBKU7VD58U9C5PYVZXC
+--------------------------------------------------211221131307.encry--------------------------------------------------
+HASH: 548c1f078081a41bce8ef96cf58d13da
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: KLBY63P42HS0QLVM8I95E0GE
+--------------------------------------------------211221131402.encry--------------------------------------------------
+HASH: c6a1455121b7b2b0c12687af857b61ce
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: X2WNP1B2PTI6HE0UL83YOEMYM7Z
+--------------------------------------------------211221134619.encry--------------------------------------------------
+HASH: 1210c350fa1a0d19b16ebc00139155ac
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: KGFUIKQHL8D7OLADEJIUN38TOHE
+--------------------------------------------------211221134710.encry--------------------------------------------------
+HASH: 5a54f537755881d2fe2c865908b44c4f
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: MPZ2UDAZE2FLCT2AXQXXLWNE2KTM0
+--------------------------------------------------211221134748.encry--------------------------------------------------
+HASH: 56f91799f296cd2f53d8175b7d500000
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 6KI1V42FC1S3JZIY1IB973JFKU7
+--------------------------------------------------211221134828.encry--------------------------------------------------
+HASH: 0c9b02f9b00f60a4fabc323b38b0d861
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: CGMYN8IHLNP2CSMM46ZS8HATJFT
+--------------------------------------------------211221135041.encry--------------------------------------------------
+HASH: 832e1205177472d48c88b32ab0e13217
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: FS2EMU8O81OGB6IMD8XUZV594SGWFH
+--------------------------------------------------211221135207.encry--------------------------------------------------
+HASH: 7e516c9bd7b678310c7c1c13edd3a18a
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: EZ5XCHS0LQAC8GNA5ZXUK249Z8
+--------------------------------------------------211221135302.encry--------------------------------------------------
+HASH: 1e1cd5e313d7718ed92bb1c6657dec3a
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: B7DUB7QRMHO041PUMPI20V2
+--------------------------------------------------211221135358.encry--------------------------------------------------
+HASH: 04ce523f55da14a97a732540952201bf
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: 5E0YKAZC6QA8NQQEVECULTKA
+--------------------------------------------------211221135447.encry--------------------------------------------------
+HASH: 761540ad4652582abed4ccdc9e9994da
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: C6SP0CEM7V2BGUKJJUF20WP29
+--------------------------------------------------221221003503.encry--------------------------------------------------
+HASH: dea5854cfb981f63dd9eed8ad13fde34
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: NC27O9W6U87LV97U8M9L97K3GAW4IB
+--------------------------------------------------221221003941.encry--------------------------------------------------
+HASH: e5570ec0931bc14bd5409b32361f1940
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 0ZKXU8LR922JLZSWKQUV3KR
+--------------------------------------------------221221171157.encry--------------------------------------------------
+HASH: 9b7a2f9c0df57266d8d980d8c154d437
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: LTT0HHAEZ2IS8GOU9K3DJPC07BIDU
+--------------------------------------------------221221171353.encry--------------------------------------------------
+HASH: 03ef080d51708658449ab7b7fda09fdb
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: VY270IHWHOCFTHD370I5KZ90UTY1JZ
+--------------------------------------------------221221171651.encry--------------------------------------------------
+HASH: b091a67b84481d426738bf18730b3df3
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: R1PEQV1EMPPVM4Y9TD5M7
+--------------------------------------------------221221172004.encry--------------------------------------------------
+HASH: 97161696ed4d99c0ef92abae555d3278
+Visita presencial. Foi relevante. Coordenada atrelada (vazio). SALT: RXGMFVPD8A76EABRZM09PQ1AYAR4
+--------------------------------------------------221221172327.encry--------------------------------------------------
+HASH: 0c75efd80c83eb7c14bbab6697668ca0
+Visita virtual. Foi relevante. Coordenada desatrelada (ponto cego). SALT: BNABAGC9BU8IZDFBE809B
+--------------------------------------------------221221172437.encry--------------------------------------------------
+HASH: bf814a83fd1326658b87aca15937262d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 2WMLFX6EDQM3MY5FK7FXF7JV
+--------------------------------------------------221221232918.encry--------------------------------------------------
+HASH: 6f613adaff5b3c08ced8760ca8cfbbcf
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 2QOT8TH8I6RIO2CVAGWAY4ZXAP
+--------------------------------------------------221221232956.encry--------------------------------------------------
+HASH: 1cfc7931c5af7c8c1504b2b9c71240c7
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: YA1U31PQLUPOLLQDWKVZJ
+--------------------------------------------------221221233039.encry--------------------------------------------------
+HASH: ee3a86b5e699e9a5e8c91eb42480b0d5
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: WHJQXFDM3T0XNVO7ZVVVMH8A3X3ZJ7
+--------------------------------------------------221221233117.encry--------------------------------------------------
+HASH: 8211afd9bca2f12399f42d335711a533
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - atrator). SALT: TIX4F43C62XIZ5LGDZEVM
+--------------------------------------------------221221233337.encry--------------------------------------------------
+HASH: bff2aa522aebaaa810e1801e9c4eae3f
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: ZXUGM43YT04FR7Y119H1YYAVF3RVN
+--------------------------------------------------221221233428.encry--------------------------------------------------
+HASH: df44f3264841aa52a337ff67bf159a63
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: 3F9IXCK6XWMCH52AU0EU9X4X9
+--------------------------------------------------221221233501.encry--------------------------------------------------
+HASH: 95b4be4b7839e5528aefefc741733b25
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: M59LEUC6JLZ7NCUOFS2WBSYOH3
+--------------------------------------------------221221233611.encry--------------------------------------------------
+HASH: c39c8381022c53b18c5fa137c622a937
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: YFV1ZMGD3KR2GNBJLUYZJ53AT
+--------------------------------------------------221221233731.encry--------------------------------------------------
+HASH: 0b58e36046589c57876e0b8b480ddbc7
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: HKZKBA6BIL4ARV46IIR58KMGF90
+--------------------------------------------------221221233826.encry--------------------------------------------------
+HASH: 47349e5d2cf97df84d36bc3adc186e00
+Visita virtual. Foi relevante. Coordenada atrelada (atrator). SALT: U6CJA6G2BWECNHCIDQZM9
+--------------------------------------------------221221233914.encry--------------------------------------------------
+HASH: 488ecfe5582e4320c90f8f0cda270873
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: 6Y4PFFZTHFFJLBL98RXJOYQ8Z03
+--------------------------------------------------221221234003.encry--------------------------------------------------
+HASH: cd6b7b67dfedf72dad546a2365657cdf
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: N4S4BP9G2Q7FOHFOL6MDC
+--------------------------------------------------221221234133.encry--------------------------------------------------
+HASH: b0777857ed69199a284942f1c8d4157d
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 54BXNP7IO4I4KJQQ74LUBZ4RM3DC
+--------------------------------------------------221221234207.encry--------------------------------------------------
+HASH: a41b5d92daeea08a43465100eda16a42
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: JXMX807U6QD8AK3LD2IVZD1HM
+--------------------------------------------------221221234246.encry--------------------------------------------------
+HASH: 17c60c4f7bafa3146d49e500b06e16c6
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: SPR0UUY8X460O7TCHFZP14Y
+--------------------------------------------------221221234317.encry--------------------------------------------------
+HASH: 3a8417294af2ce143dde8f0224b3c4f6
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: 2WZG9LHUOU7H7A7BHL82NI
+--------------------------------------------------231221131001.encry--------------------------------------------------
+HASH: 888ff4a53cf8b8e15bd5f1d89ced37c1
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 09BSZQGD4U2RTUVMFXF91TAU3CGX6P
+--------------------------------------------------231221131046.encry--------------------------------------------------
+HASH: e272e92df3646d740e1b2572d220db25
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: NSFRJF6RVJVLWAF3X4JHWP6WRHEL
+--------------------------------------------------231221131123.encry--------------------------------------------------
+HASH: 5cb34364aa6cda653d9fabc067ec8aa0
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: 2WBEHN5K4EWGQ975K1M1YEGOS15
+--------------------------------------------------231221131204.encry--------------------------------------------------
+HASH: c9dbbc2e02c5d4fa3de94b648361bb74
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: M26DGC320K5BAFF7K8D8OKXHGRW08B
+--------------------------------------------------231221131320.encry--------------------------------------------------
+HASH: 4af3a720fc8d535dedd0ac1d08c52c55
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: ASNMFIQEHEK27N351KNJ7U3
+--------------------------------------------------231221131406.encry--------------------------------------------------
+HASH: 618327ab5c613065ac9bf9e071dd309f
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: OJC9VDGZCYQNI4D4WN5VCF86JQ32
+--------------------------------------------------231221131623.encry--------------------------------------------------
+HASH: efd1a7b60bfd942913e6ba5b69a61012
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: CPQ5CYPOEBHKQQFIVA8UEFG
+--------------------------------------------------231221131809.encry--------------------------------------------------
+HASH: b6df42d9504eeed07d4d90cee1cfb332
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 8UJNTTCASBE1GSMCZOFLX0XD
+--------------------------------------------------231221132107.encry--------------------------------------------------
+HASH: 465ed38f3b2ca66d93fcba97198ee86a
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: CSDSDNUS01P22S3ZUUWSR9
+--------------------------------------------------231221132158.encry--------------------------------------------------
+HASH: 4ee36656fa58731cc0411fa2cbd7f2b9
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: N40PFXXOLLSLD218RHYZIZ4281
+--------------------------------------------------231221132342.encry--------------------------------------------------
+HASH: 8a11ba53690ed495147b271052bab4fe
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: 7BZKXJEIGH188Z401VQE4ICNSXE
+--------------------------------------------------231221132413.encry--------------------------------------------------
+HASH: 542e3baf31ed1594872fa683a12a213b
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: JYZUHFS6TM4T1PJ9UME53MIUEX
+--------------------------------------------------231221132525.encry--------------------------------------------------
+HASH: bb2f49e20496cf9051c1206858a68f5a
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: WQPTE30W4U04G94EC2TL7UFH2OZYNW
+--------------------------------------------------231221132609.encry--------------------------------------------------
+HASH: 86c055a580a4e6a95a81f2a162a19090
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: GC5EIYKTAOFDV17ZAJJDGO1BQ0EF
+--------------------------------------------------231221132658.encry--------------------------------------------------
+HASH: 71ab27de2c101b27d4222a8759ce33c9
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: FC5A8DL49ZYB9HAN6F5WEXOYTUHT
+--------------------------------------------------231221132742.encry--------------------------------------------------
+HASH: 5d6452c54fef8642aa3726aa79e6a3aa
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: GFLO9WOEQ6JW9VI1UZVQEBNKROM6
+--------------------------------------------------231221132824.encry--------------------------------------------------
+HASH: ede6f221f854e5f40afe67985dd1b66f
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: T7TK1X0P7WLQVO95FU20TOW17E6
+--------------------------------------------------231221132852.encry--------------------------------------------------
+HASH: 1c3046f2187957fbf3fb207ad67ffec8
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: DBHUN224KSTXB6FZPSQ3V
+--------------------------------------------------231221132925.encry--------------------------------------------------
+HASH: 0f1d13c0a77b445435f8a2966542cc36
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: A9V445UDPOI78UTB9QFHGWJ
+--------------------------------------------------231221132949.encry--------------------------------------------------
+HASH: d1a9c7709367c92c2d94503615a431b1
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - vazio). SALT: YS7CNAB35H089HL31R9AJ7UT4T2XT
+--------------------------------------------------231221215411.encry--------------------------------------------------
+HASH: e5408a6e4ff75718b6dec8742acd554d
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: B0ER39ZYSVWUYSVP7LU22UNAVPW
+--------------------------------------------------231221215505.encry--------------------------------------------------
+HASH: 3589061ca36d83eea52f879a0c30030a
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: XOET7WZ883QIQ5V7KTFO8
+--------------------------------------------------231221215536.encry--------------------------------------------------
+HASH: 8d118c72ee5bd51b56e3ef8333e90bc6
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 1YJYL5F5W4ANCV0CEPGSF7FBTK8N0M
+--------------------------------------------------231221215615.encry--------------------------------------------------
+HASH: ef3b115174fb412a333bc4a633ed3242
+Visita virtual. Foi relevante. Coordenada atrelada (anomalia - atrator). SALT: F0FMET0EOKNOQ9342HHH0
+--------------------------------------------------231221215849.encry--------------------------------------------------
+HASH: 706c47b28f72495d75e5380d2295d7f1
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: 3BQ481ZU6EYYZZ20WO8Z1AEM
+--------------------------------------------------231221215944.encry--------------------------------------------------
+HASH: 900dd4e815f79b5c457b1989f8efa26d
+Visita virtual. Foi relevante. Coordenada desatrelada (atrator). SALT: NN57T8RA1BJ8MT2IJ7C9Y2SJ5K
+--------------------------------------------------231221220031.encry--------------------------------------------------
+HASH: d60b32d6727f597df08c3539f1c9f4d7
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: 709QT4X791J96IZQ0D9E0KULK
+--------------------------------------------------231221220102.encry--------------------------------------------------
+HASH: c00b75224627e42b1ab1488a9edf07c1
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: MWHLM37TDGD2Q8PB8DFA1JT5RT
+--------------------------------------------------231221220206.encry--------------------------------------------------
+HASH: 3bbcec1ffb4874a010a3971f02298813
+Visita virtual. Nao foi relevante. Coordenada desatrelada (ponto cego). SALT: V7HFCTT7G66J8E72CR2T3W09
+--------------------------------------------------231221220240.encry--------------------------------------------------
+HASH: 09fba453f89980a0811ae2555280cc61
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 2UX2WLLMR7JKGC5VFI7E6331
+--------------------------------------------------231221220305.encry--------------------------------------------------
+HASH: 59c283f620fc1da2abd3b51d69ca12af
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: 4C29R7ZV38RRVYSSF1F2OORH
+--------------------------------------------------231221220332.encry--------------------------------------------------
+HASH: 2395b51d81ae0ba3d6e94fda108fb306
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: UEATEPA9R5Y732MD9DSG2A4YHLP
+--------------------------------------------------231221220506.encry--------------------------------------------------
+HASH: 691355cafe2d28950efe51e5ae80cc35
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: 2W94STP8CXMO7TGJH3F0JPQ4I
+--------------------------------------------------231221220530.encry--------------------------------------------------
+HASH: 8f63fb0c43fb6b6188107b7c4084a7e2
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: QXCTL7HZ6TE045E4WTN7ATN4VNO
+--------------------------------------------------231221220551.encry--------------------------------------------------
+HASH: 098cbddd624e6fffee8926e8027603e3
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: DBAO7WJCGDGPN11ZEV7VQ15V4P
+--------------------------------------------------231221220616.encry--------------------------------------------------
+HASH: 8c62b204d95ac3f7ebe376ba562752d1
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: SZH215K7WU74VKZ3ZGNMFYDZ9RE
+--------------------------------------------------241221134804.encry--------------------------------------------------
+HASH: bb2df7e2385822014e3651466d01fa08
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: M58WE3IQ1I10E1BCSW3WH1O7D
+--------------------------------------------------241221134840.encry--------------------------------------------------
+HASH: 9b97674605b84f4c86246283826b01e9
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: 5381YYVLXSI42YTHZBD0TUA6VWK7SS
+--------------------------------------------------241221134920.encry--------------------------------------------------
+HASH: 5d0361f2682fa8ba50702da03f3325da
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: JKLX95HPJXOTPOB4MP0B40XQT3P
+--------------------------------------------------241221134959.encry--------------------------------------------------
+HASH: 3d6e1d54ff8fbfa2d249032b866c86a3
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: D0DB2QNKCO0TY1K16BW2119R
+--------------------------------------------------241221135033.encry--------------------------------------------------
+HASH: f719e9f226f6aa28f8b585625a47bc5e
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: UPHK99J7Y1PZ7K51VNE55LOZND2Q
+--------------------------------------------------241221135105.encry--------------------------------------------------
+HASH: e2519219c8ad03bd05ee0def9cf985b1
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: IQLNJPUOCEJT6O5QODYFZ3JQKRFPGN
+--------------------------------------------------241221135141.encry--------------------------------------------------
+HASH: 35ee010b444cbfb03707eb9f23d19183
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (vazio). SALT: H6GV6IJG09S2NTJMPY21WS
+--------------------------------------------------241221135219.encry--------------------------------------------------
+HASH: 6fe19bc71bca6a28f12c265f04880cbe
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: HKJWPC0F61P3PK9G7F9CY
+--------------------------------------------------241221135247.encry--------------------------------------------------
+HASH: fc19609ac03a143703d4951289826f92
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: 8HDMFIKP9ZTDQ394CXL795BMOCK00
+--------------------------------------------------241221135313.encry--------------------------------------------------
+HASH: 8189a10d5e2e453957e729a8c919f900
+Visita virtual. Nao foi relevante. Coordenada atrelada (anomalia - vazio). SALT: EBLR02YOVLK98MWLH4QZEAS0N
+--------------------------------------------------241221135343.encry--------------------------------------------------
+HASH: 2fbbe8bbd287750cdfb7b3c7d37323e5
+Visita virtual. Nao foi relevante. Coordenada atrelada (atrator). SALT: R0LRS4VDGLR78RJ1SI7M9
+--------------------------------------------------241221135444.encry--------------------------------------------------
+HASH: fc9ec7893c0b2627f6ce17ce4e2f1cb1
+Visita virtual. Foi relevante. Coordenada atrelada (ponto cego). SALT: 1RI76WJ0I8ILVF1YRYGRFSJLBX
+--------------------------------------------------241221135508.encry--------------------------------------------------
+HASH: 3212229b6e181f8936e2ca18b3b8f3c3
+Visita virtual. Foi relevante. Coordenada desatrelada  (vazio). SALT: FC9FVL2XNRAS7CLVKRB3H
+--------------------------------------------------241221135524.encry--------------------------------------------------
+HASH: 20bc6cc1dfbf2b11a3824ed10d8bbfb4
+Visita virtual. Nao foi relevante. Coordenada atrelada (vazio). SALT: WCTYB7BV77VU0RSWEY6LW98
+--------------------------------------------------241221135555.encry--------------------------------------------------
+HASH: e211e7a88f83eaee066471756a74b357
+Visita virtual. Nao foi relevante. Coordenada desatrelada (atrator). SALT: A9LL2AN545GVK3YOBHUU90
+--------------------------------------------------241221135627.encry--------------------------------------------------
+HASH: 0d6a264ad1b291bc5c9b56dcb69f20fa
+Visita virtual. Nao foi relevante. Coordenada desatrelada  (anomalia - vazio). SALT: 0KJRP73A5FQW7UY9AUBDAKKGE
+--------------------------------------------------241221135707.encry--------------------------------------------------
+HASH: aa2c1727b005ff53f851a23edb87283a
+Visita virtual. Foi relevante. Coordenada desatrelada  (anomalia - atrator). SALT: TB53CQ5BBJ360PZP8GQ33
+--------------------------------------------------241221135738.encry--------------------------------------------------
+HASH: cc413acfb1a31319c041795b296eabf2
+Visita virtual. Foi relevante. Coordenada atrelada (vazio). SALT: XPQWLJTQLZCM9DEWCBQ03WO7QCY
+--------------------------------------------------241221135807.encry--------------------------------------------------
+HASH: 75857e832196655e724f7f1307b1b76e
+Visita virtual. Nao foi relevante. Coordenada atrelada (ponto cego). SALT: OZTU4OWJO5YY6JZA9DPAYLKAH2K
+
+Process finished with exit code 0
